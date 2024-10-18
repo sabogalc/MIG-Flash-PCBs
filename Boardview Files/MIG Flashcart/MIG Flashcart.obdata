@@ -1,0 +1,76 @@
+COMPONENTS_DATA_START
+### Component Category Value Comment
+### v = value, p = package, c = manufacturer code, r = rating, m = misc, s = status
+###
+C3 p C_0201_0603Metric
+C3 v C
+C9 p C_0201_0603Metric
+C9 v C
+C8 p C_0201_0603Metric
+C8 v C
+C18 p C_0201_0603Metric
+C18 v 1u
+C5 p C_0201_0603Metric
+C5 v C
+C6 p C_0201_0603Metric
+C6 v C
+C14 p C_0201_0603Metric
+C14 v 10p
+C11 p C_0201_0603Metric
+C11 v C
+R5 p R_0201_0603Metric
+R5 v 330R
+C20 p C_0201_0603Metric
+C20 v C
+R3 p R_0201_0603Metric
+R3 v 330R
+U1 p QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
+U1 v ICE40UP5K-SG48ITR
+C10 p C_0201_0603Metric
+C10 v C
+C19 p C_0201_0603Metric
+C19 v 1u
+D1 p SMD4_UHD111A-FKA_CRW
+D1 v UHD111A-FKA-C3K23E1L3VG5ZB3Z3
+U4 p SOT-353_SC-70-5
+U4 v TLV70025_SOT353
+C12 p C_0201_0603Metric
+C12 v C
+U3 p SOT-353_SC-70-5
+U3 v TLV70012_SOT353
+R1 p R_0201_0603Metric
+R1 v 10k
+C15 p C_0201_0603Metric
+C15 v C
+C2 p C_0201_0603Metric
+C2 v C
+C7 p C_0402_1005Metric
+C7 v C
+C17 p C_0201_0603Metric
+C17 v 1u
+C16 p C_0201_0603Metric
+C16 v 1u
+C13 p C_0201_0603Metric
+C13 v 10p
+C4 p C_0201_0603Metric
+C4 v C
+U2 p QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm
+U2 v ESP32-S2
+R4 p R_0201_0603Metric
+R4 v 330R
+R2 p R_0201_0603Metric
+R2 v 1k
+Y1 p Crystal_SMD_SeikoEpson_FA128-4Pin_2.0x1.6mm
+Y1 v ECS-400-10-37B2-CKY-TR
+J3 p microSD_HC_Molex_104031-0811
+J3 v 1040310811
+C1 p C_0201_0603Metric
+C1 v C
+SW1 p SW_SPST_EVQP7A
+SW1 v EVQ-P7A01P
+J1 p PinSocket_2x04_P1.27mm_Vertical_SMD
+J1 v Conn_02x04_Counter_Clockwise
+J2 p Cartridge_Pins
+J2 v Conn_01x17
+COMPONENTS_DATA_END
+### END

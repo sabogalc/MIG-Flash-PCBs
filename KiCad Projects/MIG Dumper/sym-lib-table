@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MIG Dumper")(type "KiCad")(uri "${KIPRJMOD}/MIG Dumper.kicad_sym")(options "")(descr ""))
+)

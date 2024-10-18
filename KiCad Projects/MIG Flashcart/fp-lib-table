@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MIG Flashcart")(type "KiCad")(uri "${KIPRJMOD}/MIG Flashcart.pretty")(options "")(descr ""))
+)

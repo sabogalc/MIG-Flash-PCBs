@@ -1,0 +1,2639 @@
+BVRAW_FORMAT_3
+
+PART_NAME C3
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C3-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5314.0 15.0
+      PIN_RADIUS 9.0
+      PIN_NET +2V5
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C3-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5339.0 15.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C9
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C9-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5287.0 347.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C9-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5287.0 372.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C8
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C8-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5676.0 328.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C8-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5701.0 328.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C18
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C18-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 6076.0 642.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C18-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 6076.0 617.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C5
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C5-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5284.0 35.0
+      PIN_RADIUS 9.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C5-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5259.0 35.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C6
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C6-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5671.0 91.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C6-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5671.0 66.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C14
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C14-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5223.0 568.0
+      PIN_RADIUS 9.0
+      PIN_NET XTAL_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C14-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5249.0 568.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C11
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C11-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5314.0 441.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C11-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5314.0 416.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME R5
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID R5-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5299.0 633.0
+      PIN_RADIUS 9.0
+      PIN_NET MTDO
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID R5-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5299.0 658.0
+      PIN_RADIUS 9.0
+      PIN_NET Net-(D1-GK)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C20
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C20-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5324.0 633.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C20-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5324.0 658.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME R3
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID R3-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5206.0 623.0
+      PIN_RADIUS 9.0
+      PIN_NET MTMS
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID R3-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5206.0 648.0
+      PIN_RADIUS 9.0
+      PIN_NET Net-(D1-BK)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME U1
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID U1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5594.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5574.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET IOB_6a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 5555.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET IOB_9b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5535.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO7
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE T
+      PIN_ORIGIN 5515.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-6
+      PIN_NUMBER 6
+      PIN_NAME 6
+      PIN_SIDE T
+      PIN_ORIGIN 5496.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_13b-Pad6)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-7
+      PIN_NUMBER 7
+      PIN_NAME 7
+      PIN_SIDE T
+      PIN_ORIGIN 5476.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO6
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-8
+      PIN_NUMBER 8
+      PIN_NAME 8
+      PIN_SIDE T
+      PIN_ORIGIN 5456.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO5
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-9
+      PIN_NUMBER 9
+      PIN_NAME 9
+      PIN_SIDE T
+      PIN_ORIGIN 5437.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_16a-Pad9)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-10
+      PIN_NUMBER 10
+      PIN_NAME 10
+      PIN_SIDE T
+      PIN_ORIGIN 5417.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_18a-Pad10)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 5397.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_20a-Pad11)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-12
+      PIN_NUMBER 12
+      PIN_NAME 12
+      PIN_SIDE T
+      PIN_ORIGIN 5377.0 312.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_22a-Pad12)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-13
+      PIN_NUMBER 13
+      PIN_NAME 13
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 285.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_24a-Pad13)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-14
+      PIN_NUMBER 14
+      PIN_NAME 14
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 265.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO13
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-15
+      PIN_NUMBER 15
+      PIN_NAME 15
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 246.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO12
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-16
+      PIN_NUMBER 16
+      PIN_NAME 16
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 226.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO10
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-17
+      PIN_NUMBER 17
+      PIN_NAME 17
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 206.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO11
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-18
+      PIN_NUMBER 18
+      PIN_NAME 18
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 187.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO14
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-19
+      PIN_NUMBER 19
+      PIN_NAME 19
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 167.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO9
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-20
+      PIN_NUMBER 20
+      PIN_NAME 20
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 147.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_25b_G3-Pad20)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-21
+      PIN_NUMBER 21
+      PIN_NAME 21
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 127.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1B-IOB_23b-Pad21)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-22
+      PIN_NUMBER 22
+      PIN_NAME 22
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 108.0
+      PIN_RADIUS 6.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-23
+      PIN_NUMBER 23
+      PIN_NAME 23
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 88.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_37a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-24
+      PIN_NUMBER 24
+      PIN_NAME 24
+      PIN_SIDE T
+      PIN_ORIGIN 5350.0 68.0
+      PIN_RADIUS 6.0
+      PIN_NET +2V5
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-25
+      PIN_NUMBER 25
+      PIN_NAME 25
+      PIN_SIDE T
+      PIN_ORIGIN 5377.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_36b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-26
+      PIN_NUMBER 26
+      PIN_NAME 26
+      PIN_SIDE T
+      PIN_ORIGIN 5397.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_39a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-27
+      PIN_NUMBER 27
+      PIN_NAME 27
+      PIN_SIDE T
+      PIN_ORIGIN 5417.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_38b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-28
+      PIN_NUMBER 28
+      PIN_NAME 28
+      PIN_SIDE T
+      PIN_ORIGIN 5437.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_41a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-29
+      PIN_NUMBER 29
+      PIN_NAME 29
+      PIN_SIDE T
+      PIN_ORIGIN 5456.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-30
+      PIN_NUMBER 30
+      PIN_NAME 30
+      PIN_SIDE T
+      PIN_ORIGIN 5476.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-31
+      PIN_NUMBER 31
+      PIN_NAME 31
+      PIN_SIDE T
+      PIN_ORIGIN 5496.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_42b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-32
+      PIN_NUMBER 32
+      PIN_NAME 32
+      PIN_SIDE T
+      PIN_ORIGIN 5515.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_43a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-33
+      PIN_NUMBER 33
+      PIN_NAME 33
+      PIN_SIDE T
+      PIN_ORIGIN 5535.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET +1V8
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-34
+      PIN_NUMBER 34
+      PIN_NAME 34
+      PIN_SIDE T
+      PIN_ORIGIN 5555.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_44b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-35
+      PIN_NUMBER 35
+      PIN_NAME 35
+      PIN_SIDE T
+      PIN_ORIGIN 5574.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1A-IOT_46b_G0-Pad35)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-36
+      PIN_NUMBER 36
+      PIN_NAME 36
+      PIN_SIDE T
+      PIN_ORIGIN 5594.0 41.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_48b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-37
+      PIN_NUMBER 37
+      PIN_NAME 37
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 68.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_45a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-38
+      PIN_NUMBER 38
+      PIN_NAME 38
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 88.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_50b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-39
+      PIN_NUMBER 39
+      PIN_NAME 39
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 108.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1A-RGB0-Pad39)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-40
+      PIN_NUMBER 40
+      PIN_NAME 40
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 127.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1A-RGB1-Pad40)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-41
+      PIN_NUMBER 41
+      PIN_NAME 41
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 147.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1A-RGB2-Pad41)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-42
+      PIN_NUMBER 42
+      PIN_NAME 42
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 167.0
+      PIN_RADIUS 6.0
+      PIN_NET unconnected-(U1A-IOT_51a-Pad42)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-43
+      PIN_NUMBER 43
+      PIN_NAME 43
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 187.0
+      PIN_RADIUS 6.0
+      PIN_NET IOT_49a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-44
+      PIN_NUMBER 44
+      PIN_NAME 44
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 206.0
+      PIN_RADIUS 6.0
+      PIN_NET IOB_3b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-45
+      PIN_NUMBER 45
+      PIN_NAME 45
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 226.0
+      PIN_RADIUS 6.0
+      PIN_NET IOB_5b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-46
+      PIN_NUMBER 46
+      PIN_NAME 46
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 246.0
+      PIN_RADIUS 6.0
+      PIN_NET IOB_0a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-47
+      PIN_NUMBER 47
+      PIN_NAME 47
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 265.0
+      PIN_RADIUS 6.0
+      PIN_NET GPIO8
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-48
+      PIN_NUMBER 48
+      PIN_NAME 48
+      PIN_SIDE T
+      PIN_ORIGIN 5621.0 285.0
+      PIN_RADIUS 6.0
+      PIN_NET IOB_4a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U1-49
+      PIN_NUMBER 49
+      PIN_NAME 49
+      PIN_SIDE T
+      PIN_ORIGIN 5486.0 177.0
+      PIN_RADIUS 126.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C10
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C10-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5676.0 352.0
+      PIN_RADIUS 9.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C10-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5701.0 352.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C19
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C19-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 6218.0 624.0
+      PIN_RADIUS 9.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C19-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 6218.0 599.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME D1
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID D1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5253.0 624.0
+      PIN_RADIUS 8.0
+      PIN_NET Net-(D1-RK)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID D1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5253.0 650.0
+      PIN_RADIUS 8.0
+      PIN_NET Net-(D1-GK)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID D1-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 5227.0 650.0
+      PIN_RADIUS 8.0
+      PIN_NET Net-(D1-BK)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID D1-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5227.0 624.0
+      PIN_RADIUS 8.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME U4
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID U4-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 6013.0 594.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U4-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 6013.0 620.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U4-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 6013.0 645.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U4-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5938.0 645.0
+      PIN_RADIUS 9.0
+      PIN_NET unconnected-(U4-NC-Pad4)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U4-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE T
+      PIN_ORIGIN 5938.0 594.0
+      PIN_RADIUS 9.0
+      PIN_NET +2V5
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C12
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C12-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5673.0 485.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C12-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5673.0 459.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME U3
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID U3-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 6112.0 645.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U3-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 6112.0 620.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U3-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 6112.0 594.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U3-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 6187.0 594.0
+      PIN_RADIUS 9.0
+      PIN_NET unconnected-(U3-NC-Pad4)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U3-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE T
+      PIN_ORIGIN 6187.0 645.0
+      PIN_RADIUS 9.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME R1
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID R1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5322.0 347.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID R1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5322.0 372.0
+      PIN_RADIUS 9.0
+      PIN_NET CHIP_PU
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C15
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C15-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5659.0 597.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C15-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5659.0 622.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C2
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C2-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5284.0 15.0
+      PIN_RADIUS 9.0
+      PIN_NET +1V2
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C2-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5259.0 15.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C7
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C7-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5660.0 125.0
+      PIN_RADIUS 13.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C7-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5660.0 163.0
+      PIN_RADIUS 13.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C17
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C17-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 6051.0 642.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C17-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 6051.0 617.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C16
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C16-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5908.0 594.0
+      PIN_RADIUS 9.0
+      PIN_NET +2V5
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C16-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5883.0 594.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C13
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C13-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5273.0 548.0
+      PIN_RADIUS 9.0
+      PIN_NET XTAL_P
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C13-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5247.0 548.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C4
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C4-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5651.0 16.0
+      PIN_RADIUS 9.0
+      PIN_NET +1V8
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C4-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5651.0 42.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME U2
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID U2-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5387.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5403.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-LNA_IN-Pad2)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 5419.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5435.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE T
+      PIN_ORIGIN 5450.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO0
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-6
+      PIN_NUMBER 6
+      PIN_NAME 6
+      PIN_SIDE T
+      PIN_ORIGIN 5466.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO1
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-7
+      PIN_NUMBER 7
+      PIN_NAME 7
+      PIN_SIDE T
+      PIN_ORIGIN 5482.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO2-Pad7)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-8
+      PIN_NUMBER 8
+      PIN_NAME 8
+      PIN_SIDE T
+      PIN_ORIGIN 5498.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO3-Pad8)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-9
+      PIN_NUMBER 9
+      PIN_NAME 9
+      PIN_SIDE T
+      PIN_ORIGIN 5513.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO4-Pad9)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-10
+      PIN_NUMBER 10
+      PIN_NAME 10
+      PIN_SIDE T
+      PIN_ORIGIN 5529.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO5
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 5545.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO6
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-12
+      PIN_NUMBER 12
+      PIN_NAME 12
+      PIN_SIDE T
+      PIN_ORIGIN 5561.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO7
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-13
+      PIN_NUMBER 13
+      PIN_NAME 13
+      PIN_SIDE T
+      PIN_ORIGIN 5576.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO8
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-14
+      PIN_NUMBER 14
+      PIN_NAME 14
+      PIN_SIDE T
+      PIN_ORIGIN 5592.0 379.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO9
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-15
+      PIN_NUMBER 15
+      PIN_NAME 15
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 413.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO10
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-16
+      PIN_NUMBER 16
+      PIN_NAME 16
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 429.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO11
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-17
+      PIN_NUMBER 17
+      PIN_NAME 17
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 444.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO12
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-18
+      PIN_NUMBER 18
+      PIN_NAME 18
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 460.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO13
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-19
+      PIN_NUMBER 19
+      PIN_NAME 19
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 476.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO14
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-20
+      PIN_NUMBER 20
+      PIN_NAME 20
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 492.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-21
+      PIN_NUMBER 21
+      PIN_NAME 21
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 507.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-XTAL_32K_P-Pad21)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-22
+      PIN_NUMBER 22
+      PIN_NAME 22
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 523.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-XTAL_32K_N-Pad22)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-23
+      PIN_NUMBER 23
+      PIN_NAME 23
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 539.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-DAC_1-Pad23)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-24
+      PIN_NUMBER 24
+      PIN_NAME 24
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 555.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-DAC_2-Pad24)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-25
+      PIN_NUMBER 25
+      PIN_NAME 25
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 570.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO19
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-26
+      PIN_NUMBER 26
+      PIN_NAME 26
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 586.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO20
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-27
+      PIN_NUMBER 27
+      PIN_NAME 27
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 602.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-28
+      PIN_NUMBER 28
+      PIN_NAME 28
+      PIN_SIDE T
+      PIN_ORIGIN 5625.0 618.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO21-Pad28)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-29
+      PIN_NUMBER 29
+      PIN_NAME 29
+      PIN_SIDE T
+      PIN_ORIGIN 5592.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPICS1-Pad29)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-30
+      PIN_NUMBER 30
+      PIN_NAME 30
+      PIN_SIDE T
+      PIN_ORIGIN 5576.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-31
+      PIN_NUMBER 31
+      PIN_NAME 31
+      PIN_SIDE T
+      PIN_ORIGIN 5561.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPIHD-Pad31)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-32
+      PIN_NUMBER 32
+      PIN_NAME 32
+      PIN_SIDE T
+      PIN_ORIGIN 5545.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPIWP-Pad32)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-33
+      PIN_NUMBER 33
+      PIN_NAME 33
+      PIN_SIDE T
+      PIN_ORIGIN 5529.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPICS0-Pad33)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-34
+      PIN_NUMBER 34
+      PIN_NAME 34
+      PIN_SIDE T
+      PIN_ORIGIN 5513.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPICLK-Pad34)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-35
+      PIN_NUMBER 35
+      PIN_NAME 35
+      PIN_SIDE T
+      PIN_ORIGIN 5498.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPIQ-Pad35)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-36
+      PIN_NUMBER 36
+      PIN_NAME 36
+      PIN_SIDE T
+      PIN_ORIGIN 5482.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-SPID-Pad36)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-37
+      PIN_NUMBER 37
+      PIN_NAME 37
+      PIN_SIDE T
+      PIN_ORIGIN 5466.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET GPIO33
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-38
+      PIN_NUMBER 38
+      PIN_NAME 38
+      PIN_SIDE T
+      PIN_ORIGIN 5450.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO34-Pad38)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-39
+      PIN_NUMBER 39
+      PIN_NAME 39
+      PIN_SIDE T
+      PIN_ORIGIN 5435.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-40
+      PIN_NUMBER 40
+      PIN_NAME 40
+      PIN_SIDE T
+      PIN_ORIGIN 5419.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO36-Pad40)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-41
+      PIN_NUMBER 41
+      PIN_NAME 41
+      PIN_SIDE T
+      PIN_ORIGIN 5403.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO37-Pad41)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-42
+      PIN_NUMBER 42
+      PIN_NAME 42
+      PIN_SIDE T
+      PIN_ORIGIN 5387.0 651.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-GPIO38-Pad42)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-43
+      PIN_NUMBER 43
+      PIN_NAME 43
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 618.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-MTCK-Pad43)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-44
+      PIN_NUMBER 44
+      PIN_NAME 44
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 602.0
+      PIN_RADIUS 4.0
+      PIN_NET MTDO
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-45
+      PIN_NUMBER 45
+      PIN_NAME 45
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 586.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-46
+      PIN_NUMBER 46
+      PIN_NAME 46
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 570.0
+      PIN_RADIUS 4.0
+      PIN_NET MTDI
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-47
+      PIN_NUMBER 47
+      PIN_NAME 47
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 555.0
+      PIN_RADIUS 4.0
+      PIN_NET MTMS
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-48
+      PIN_NUMBER 48
+      PIN_NAME 48
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 539.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-U0TXD-Pad48)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-49
+      PIN_NUMBER 49
+      PIN_NAME 49
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 523.0
+      PIN_RADIUS 4.0
+      PIN_NET unconnected-(U2-U0RXD-Pad49)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-50
+      PIN_NUMBER 50
+      PIN_NAME 50
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 507.0
+      PIN_RADIUS 4.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-51
+      PIN_NUMBER 51
+      PIN_NAME 51
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 492.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-52
+      PIN_NUMBER 52
+      PIN_NAME 52
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 476.0
+      PIN_RADIUS 4.0
+      PIN_NET XTAL_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-53
+      PIN_NUMBER 53
+      PIN_NAME 53
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 460.0
+      PIN_RADIUS 4.0
+      PIN_NET XTAL_P
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-54
+      PIN_NUMBER 54
+      PIN_NAME 54
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 444.0
+      PIN_RADIUS 4.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-55
+      PIN_NUMBER 55
+      PIN_NAME 55
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 429.0
+      PIN_RADIUS 4.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-56
+      PIN_NUMBER 56
+      PIN_NAME 56
+      PIN_SIDE T
+      PIN_ORIGIN 5354.0 413.0
+      PIN_RADIUS 4.0
+      PIN_NET CHIP_PU
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID U2-57
+      PIN_NUMBER 57
+      PIN_NAME 57
+      PIN_SIDE T
+      PIN_ORIGIN 5490.0 515.0
+      PIN_RADIUS 98.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME R2
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID R2-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5677.0 563.0
+      PIN_RADIUS 9.0
+      PIN_NET GPIO33
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID R2-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5677.0 538.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME Y1
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID Y1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5264.0 459.0
+      PIN_RADIUS 20.0
+      PIN_NET XTAL_P
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID Y1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5264.0 516.0
+      PIN_RADIUS 20.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID Y1-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 5219.0 516.0
+      PIN_RADIUS 20.0
+      PIN_NET XTAL_N
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID Y1-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5219.0 459.0
+      PIN_RADIUS 20.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME J3
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID J3-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 6126.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET IOB_9b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 6082.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET IOB_6a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE T
+      PIN_ORIGIN 6039.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET IOB_4a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE T
+      PIN_ORIGIN 5996.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE T
+      PIN_ORIGIN 5952.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET IOB_3b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-6
+      PIN_NUMBER 6
+      PIN_NAME 6
+      PIN_SIDE T
+      PIN_ORIGIN 5909.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-7
+      PIN_NUMBER 7
+      PIN_NAME 7
+      PIN_SIDE T
+      PIN_ORIGIN 5866.0 114.0
+      PIN_RADIUS 20.0
+      PIN_NET IOB_0a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-8
+      PIN_NUMBER 8
+      PIN_NAME 8
+      PIN_SIDE T
+      PIN_ORIGIN 5825.0 114.0
+      PIN_RADIUS 18.0
+      PIN_NET IOB_5b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-9
+      PIN_NUMBER 9
+      PIN_NAME 9
+      PIN_SIDE T
+      PIN_ORIGIN 6229.0 356.0
+      PIN_RADIUS 24.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-10
+      PIN_NUMBER 10
+      PIN_NAME 10
+      PIN_SIDE T
+      PIN_ORIGIN 6229.0 501.0
+      PIN_RADIUS 24.0
+      PIN_NET unconnected-(J3-DET_A-Pad10)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 6223.0 119.0
+      PIN_RADIUS 33.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 6092.0 540.0
+      PIN_RADIUS 33.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 5857.0 540.0
+      PIN_RADIUS 33.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J3-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE T
+      PIN_ORIGIN 5777.0 127.0
+      PIN_RADIUS 28.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME C1
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID C1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5213.0 25.0
+      PIN_RADIUS 9.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID C1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5238.0 25.0
+      PIN_RADIUS 9.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME SW1
+   PART_SIDE T
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID SW1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5280.0 248.0
+      PIN_RADIUS 25.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID SW1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE T
+      PIN_ORIGIN 5280.0 106.0
+      PIN_RADIUS 25.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID SW1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5223.0 248.0
+      PIN_RADIUS 25.0
+      PIN_NET GPIO1
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID SW1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE T
+      PIN_ORIGIN 5223.0 106.0
+      PIN_RADIUS 25.0
+      PIN_NET GPIO1
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME J1
+   PART_SIDE B
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT Through hole
+
+   PIN_ID J1-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE B
+      PIN_ORIGIN 5219.0 234.0
+      PIN_RADIUS 24.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE B
+      PIN_ORIGIN 5269.0 234.0
+      PIN_RADIUS 24.0
+      PIN_NET unconnected-(J1-Pin_2-Pad2)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE B
+      PIN_ORIGIN 5219.0 184.0
+      PIN_RADIUS 24.0
+      PIN_NET unconnected-(J1-Pin_3-Pad3)
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE B
+      PIN_ORIGIN 5269.0 184.0
+      PIN_RADIUS 24.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE B
+      PIN_ORIGIN 5219.0 134.0
+      PIN_RADIUS 24.0
+      PIN_NET CHIP_PU
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-6
+      PIN_NUMBER 6
+      PIN_NAME 6
+      PIN_SIDE B
+      PIN_ORIGIN 5269.0 134.0
+      PIN_RADIUS 24.0
+      PIN_NET GPIO0
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-7
+      PIN_NUMBER 7
+      PIN_NAME 7
+      PIN_SIDE B
+      PIN_ORIGIN 5219.0 84.0
+      PIN_RADIUS 24.0
+      PIN_NET GPIO20
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J1-8
+      PIN_NUMBER 8
+      PIN_NAME 8
+      PIN_SIDE B
+      PIN_ORIGIN 5269.0 84.0
+      PIN_RADIUS 24.0
+      PIN_NET GPIO19
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+
+PART_NAME J2
+   PART_SIDE B
+   PART_ORIGIN 0.000 0.000
+   PART_MOUNT SMD
+
+   PIN_ID J2-1
+      PIN_NUMBER 1
+      PIN_NAME 1
+      PIN_SIDE B
+      PIN_ORIGIN 5889.0 641.0
+      PIN_RADIUS 27.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-2
+      PIN_NUMBER 2
+      PIN_NAME 2
+      PIN_SIDE B
+      PIN_ORIGIN 6106.0 641.0
+      PIN_RADIUS 27.0
+      PIN_NET GPIO33
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-3
+      PIN_NUMBER 3
+      PIN_NAME 3
+      PIN_SIDE B
+      PIN_ORIGIN 6125.0 592.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_45a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-4
+      PIN_NUMBER 4
+      PIN_NAME 4
+      PIN_SIDE B
+      PIN_ORIGIN 5889.0 592.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_48b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-5
+      PIN_NUMBER 5
+      PIN_NAME 5
+      PIN_SIDE B
+      PIN_ORIGIN 6007.0 515.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_37a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-6
+      PIN_NUMBER 6
+      PIN_NAME 6
+      PIN_SIDE B
+      PIN_ORIGIN 6125.0 466.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_36b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-7
+      PIN_NUMBER 7
+      PIN_NAME 7
+      PIN_SIDE B
+      PIN_ORIGIN 5889.0 466.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_50b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-8
+      PIN_NUMBER 8
+      PIN_NAME 8
+      PIN_SIDE B
+      PIN_ORIGIN 6017.0 387.0
+      PIN_RADIUS 27.0
+      PIN_NET VCC
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-9
+      PIN_NUMBER 9
+      PIN_NAME 9
+      PIN_SIDE B
+      PIN_ORIGIN 6125.0 338.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_38b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-10
+      PIN_NUMBER 10
+      PIN_NAME 10
+      PIN_SIDE B
+      PIN_ORIGIN 5889.0 338.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_39a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-11
+      PIN_NUMBER 11
+      PIN_NAME 11
+      PIN_SIDE B
+      PIN_ORIGIN 6017.0 263.0
+      PIN_RADIUS 27.0
+      PIN_NET +1V8
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-12
+      PIN_NUMBER 12
+      PIN_NAME 12
+      PIN_SIDE B
+      PIN_ORIGIN 6125.0 214.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_42b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-13
+      PIN_NUMBER 13
+      PIN_NAME 13
+      PIN_SIDE B
+      PIN_ORIGIN 5889.0 214.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_41a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-14
+      PIN_NUMBER 14
+      PIN_NAME 14
+      PIN_SIDE B
+      PIN_ORIGIN 6125.0 136.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_43a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-15
+      PIN_NUMBER 15
+      PIN_NAME 15
+      PIN_SIDE B
+      PIN_ORIGIN 5889.0 136.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_44b
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-16
+      PIN_NUMBER 16
+      PIN_NAME 16
+      PIN_SIDE B
+      PIN_ORIGIN 6024.0 87.0
+      PIN_RADIUS 27.0
+      PIN_NET GND
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+   PIN_ID J2-17
+      PIN_NUMBER 17
+      PIN_NAME 17
+      PIN_SIDE B
+      PIN_ORIGIN 6007.0 38.0
+      PIN_RADIUS 27.0
+      PIN_NET IOT_49a
+      PIN_TYPE 2
+      PIN_COMMENT
+   PIN_END
+
+PART_END
+
+OUTLINE_POINTS 6271 0 5194 0 5194 281 5199 283 5207 288 5214 295 5220 302 5225 311 5228 320 5230 329 5230 339 5228 349 5225 358 5220 366 5214 374 5207 380 5199 385 5194 387 5194 669 6271 669 6271 0
