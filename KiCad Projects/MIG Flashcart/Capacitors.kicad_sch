@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MIG Flashcart - Capacitors")
-		(date "2024-10-06")
-		(rev "1")
+		(date "2024-11-21")
+		(rev "2")
 		(company "Carlos Sabogal")
 	)
 	(lib_symbols
@@ -707,12 +707,6 @@
 		(uuid "019979fd-ae5f-48c1-984e-69e5528ff605")
 	)
 	(junction
-		(at 154.94 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a03f94e-f85f-41cc-bb5c-76d271e4c2ec")
-	)
-	(junction
 		(at 199.39 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -753,12 +747,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55e98648-eb04-4274-b2bd-5f3b113b9cb1")
-	)
-	(junction
-		(at 142.24 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58db9b53-8a2b-41a1-9a40-f8121249d668")
 	)
 	(junction
 		(at 161.29 59.69)
@@ -815,22 +803,10 @@
 		(uuid "8d48a921-138e-45cf-a518-eca6db9f89ba")
 	)
 	(junction
-		(at 154.94 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9a84e0df-be7c-4a67-9ee1-da234d2c0e26")
-	)
-	(junction
 		(at 148.59 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b966b7c-ab9a-45ae-adb0-919481e1816c")
-	)
-	(junction
-		(at 142.24 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae9630e2-e9a4-4305-81bc-26262215b9fd")
 	)
 	(junction
 		(at 97.79 59.69)
@@ -908,6 +884,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 138.43) (xy 148.59 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16ec967a-6162-44cd-8f6a-897623fe6e3d")
+	)
+	(wire
+		(pts
 			(xy 199.39 48.26) (xy 199.39 44.45)
 		)
 		(stroke
@@ -928,16 +914,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 142.24) (xy 129.54 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dea6e74-0366-4515-a6a7-004f6cb7d146")
-	)
-	(wire
-		(pts
 			(xy 110.49 55.88) (xy 110.49 59.69)
 		)
 		(stroke
@@ -945,16 +921,6 @@
 			(type default)
 		)
 		(uuid "1e465801-4573-4f0d-9d0b-87a146c95b68")
-	)
-	(wire
-		(pts
-			(xy 142.24 138.43) (xy 148.59 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "214856f3-51ae-4dc8-9419-8fa7ce2c7962")
 	)
 	(wire
 		(pts
@@ -1005,16 +971,6 @@
 			(type default)
 		)
 		(uuid "2c32f499-0a8b-4b49-8e91-0698195ab35c")
-	)
-	(wire
-		(pts
-			(xy 148.59 153.67) (xy 142.24 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cd63a07-9898-4ad4-8338-ba28cd7e7528")
 	)
 	(wire
 		(pts
@@ -1078,17 +1034,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 153.67) (xy 154.94 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56707bfe-fc96-44b8-8c18-3dc2c78aa18b")
-	)
-	(wire
-		(pts
-			(xy 167.64 153.67) (xy 167.64 149.86)
+			(xy 161.29 153.67) (xy 161.29 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1118,7 +1064,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 138.43) (xy 154.94 138.43)
+			(xy 148.59 138.43) (xy 161.29 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1168,16 +1114,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 138.43) (xy 167.64 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "738b90cf-6d3a-45f2-a34a-f931e787ee5b")
-	)
-	(wire
-		(pts
 			(xy 173.99 59.69) (xy 173.99 55.88)
 		)
 		(stroke
@@ -1218,7 +1154,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 138.43) (xy 154.94 142.24)
+			(xy 148.59 138.43) (xy 148.59 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1228,7 +1164,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 149.86) (xy 154.94 153.67)
+			(xy 148.59 149.86) (xy 148.59 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1248,7 +1184,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 142.24) (xy 167.64 138.43)
+			(xy 161.29 142.24) (xy 161.29 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1278,7 +1214,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 153.67) (xy 142.24 149.86)
+			(xy 135.89 153.67) (xy 135.89 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1298,17 +1234,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 138.43) (xy 142.24 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae29a226-ee89-4c25-9563-c8f6d892fe13")
-	)
-	(wire
-		(pts
-			(xy 142.24 153.67) (xy 129.54 153.67)
+			(xy 135.89 153.67) (xy 148.59 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1368,7 +1294,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 153.67) (xy 148.59 153.67)
+			(xy 148.59 153.67) (xy 161.29 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1488,7 +1414,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 138.43) (xy 142.24 142.24)
+			(xy 135.89 138.43) (xy 135.89 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1515,16 +1441,6 @@
 			(type default)
 		)
 		(uuid "d9652f00-71e5-4d1c-bb7d-2d872809a428")
-	)
-	(wire
-		(pts
-			(xy 129.54 153.67) (xy 129.54 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dee7a9b6-5084-4732-916b-b62163ba02eb")
 	)
 	(wire
 		(pts
@@ -1644,76 +1560,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 142.24 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "11f990e5-c29b-492e-b696-9a72c22f390a")
-		(property "Reference" "C5"
-			(at 146.05 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 146.05 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 143.2052 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 142.24 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa803fe8-7e5d-4eea-b2a4-a7faedd76f30")
-		)
-		(pin "2"
-			(uuid "a95e9e71-e98a-4c82-a4cd-260dbffb3b26")
-		)
-		(instances
-			(project "MIG Flashcart"
-				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de/7391af95-1f07-428e-9e81-02d698809e17"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 186.69 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1731,7 +1577,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "0.82u"
 			(at 190.5 53.3399 0)
 			(effects
 				(font
@@ -1784,7 +1630,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 129.54 146.05 0)
+		(at 135.89 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1793,7 +1639,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d857e0a-c264-4b48-9ae3-66e55276ff26")
 		(property "Reference" "C2"
-			(at 133.35 144.7799 0)
+			(at 139.7 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1801,8 +1647,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 133.35 147.3199 0)
+		(property "Value" "0.88u"
+			(at 139.7 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1811,7 +1657,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 130.5052 149.86 0)
+			(at 136.8552 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1820,7 +1666,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 146.05 0)
+			(at 135.89 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1829,7 +1675,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 129.54 146.05 0)
+			(at 135.89 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1871,7 +1717,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "0.88u"
 			(at 158.75 100.3299 0)
 			(effects
 				(font
@@ -1924,7 +1770,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 154.94 146.05 0)
+		(at 148.59 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1933,7 +1779,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fe9c065-0b3f-4532-9872-eab0e4d98abc")
 		(property "Reference" "C10"
-			(at 158.75 144.7799 0)
+			(at 152.4 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1941,8 +1787,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 158.75 147.3199 0)
+		(property "Value" "0.88u"
+			(at 152.4 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1951,7 +1797,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 155.9052 149.86 0)
+			(at 149.5552 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1960,7 +1806,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 146.05 0)
+			(at 148.59 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1969,7 +1815,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 154.94 146.05 0)
+			(at 148.59 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2068,7 +1914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48a2b17f-cfb2-4d09-82a3-3ab827fdd320")
-		(property "Reference" "C7"
+		(property "Reference" "C6"
 			(at 114.3 50.7999 0)
 			(effects
 				(font
@@ -2077,7 +1923,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "3u3"
 			(at 114.3 53.3399 0)
 			(effects
 				(font
@@ -2122,7 +1968,7 @@
 		(instances
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de/7391af95-1f07-428e-9e81-02d698809e17"
-					(reference "C7")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -2147,7 +1993,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 139.7 53.3399 0)
 			(effects
 				(font
@@ -2217,7 +2063,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 88.9 53.3399 0)
 			(effects
 				(font
@@ -2287,7 +2133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 152.4 53.3399 0)
 			(effects
 				(font
@@ -2357,7 +2203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 165.1 53.3399 0)
 			(effects
 				(font
@@ -2410,7 +2256,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 167.64 146.05 0)
+		(at 161.29 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2419,7 +2265,7 @@
 		(fields_autoplaced yes)
 		(uuid "84b71663-4ea7-47e1-b55a-0b5ca77b7cd2")
 		(property "Reference" "C19"
-			(at 171.45 144.7799 0)
+			(at 165.1 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2427,8 +2273,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
-			(at 171.45 147.3199 0)
+		(property "Value" "0.82u"
+			(at 165.1 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2437,7 +2283,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 168.6052 149.86 0)
+			(at 162.2552 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2446,7 +2292,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 146.05 0)
+			(at 161.29 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2455,7 +2301,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 167.64 146.05 0)
+			(at 161.29 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2564,7 +2410,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 127 53.3399 0)
 			(effects
 				(font
@@ -2634,7 +2480,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.88u"
 			(at 177.8 53.3399 0)
 			(effects
 				(font
@@ -2771,7 +2617,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 215.9 53.3399 0)
 			(effects
 				(font
@@ -2907,7 +2753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 146.05 100.3299 0)
 			(effects
 				(font
@@ -2977,7 +2823,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "0.82u"
 			(at 203.2 53.3399 0)
 			(effects
 				(font
@@ -3104,7 +2950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe3f3d9c-db0e-46e1-9fbf-ee84cdcd67b3")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 101.6 50.7999 0)
 			(effects
 				(font
@@ -3113,7 +2959,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 101.6 53.3399 0)
 			(effects
 				(font
@@ -3158,7 +3004,7 @@
 		(instances
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de/7391af95-1f07-428e-9e81-02d698809e17"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)

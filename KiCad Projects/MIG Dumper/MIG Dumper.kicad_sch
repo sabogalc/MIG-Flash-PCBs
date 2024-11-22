@@ -6302,7 +6302,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 120.65) (xy 199.39 120.65)
+			(xy 198.12 120.65) (xy 199.39 120.65)
 		)
 		(stroke
 			(width 0)
@@ -8026,28 +8026,6 @@
 			)
 		)
 	)
-	(global_label "CMD"
-		(shape input)
-		(at 133.35 62.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "28370f3b-34c2-4c27-8b8d-d700c11ea7a3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.3266 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "IOT_42b"
 		(shape input)
 		(at 257.81 124.46 180)
@@ -8575,28 +8553,6 @@
 			)
 		)
 	)
-	(global_label "CMD"
-		(shape input)
-		(at 195.58 120.65 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "66da88c7-20e8-4ed8-a281-83ab083a36f4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 188.6034 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "IOT_50b"
 		(shape input)
 		(at 257.81 111.76 180)
@@ -8681,6 +8637,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IOB_4a"
+		(shape input)
+		(at 198.12 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "80a47af1-94e4-4a98-adf9-7299872bfa2d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 188.6034 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8923,6 +8901,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IOB_4a"
+		(shape input)
+		(at 133.35 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a9142273-1110-4b58-ae70-0a5e00fbf1b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.8666 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)

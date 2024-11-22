@@ -16,7 +16,12 @@ Additionally, the SD card to USB adapter chip and the cartridge reader are not p
 [Cartridge reader](https://www.aliexpress.com/item/3256804487003304.html)
 
 ### Can I use these designs to manufacture my own MIG Dumper?
-Yes and no. I have succesfully transplanted all the parts of an original Dumper to this PCB, and it works perfectly. Building it from scratch with the parts from the included `.csv` and `.xlsx` BOMs does not work, but if you substitute in an OEM FPGA and ESP32, then it works. This leads me to believe that there is some amount of firmware programming that happens at the factory with these boards, as specified in the main landing page's `README`.
+Yes and no. I have succesfully transplanted all the parts of an original Dumper to this PCB, and it works perfectly. Building it from scratch with the parts from the included `.csv` and `.xlsx` BOMs does not work, but if you substitute in an OEM FPGA and ESP32, then it works. This is because the firmware for these chips is programmed and encrypted at the factory, as specified in the main landing page's `README`.
+
+While it may be possible to break this encryption (see [here](https://hackaday.com/2024/01/15/breaking-the-flash-encryption-feature-of-espressifs-microcontrollers/)), I am a hardware engineer and not very interested in delving into the firmware side of things. However, I will include a schematic for a programmer board below should anyone want to embark on that journey. The instructions for the boot sequence needed are found at https://docs.espressif.com/projects/esp-idf/en/v5.2/esp32s2/api-guides/dfu.html in the bootloader mode note.
+
+![Programmer Schematic](https://github.com/user-attachments/assets/8a2aebe1-cfdf-4c0c-950c-3228ec176417)
+
 
 Below is a photo of the board from this repository screwed into the enclosure and reading a gamecard.
 ![MIG Dumper in enclosure](https://github.com/user-attachments/assets/2d17e25d-7f2f-41b9-9f3d-f410cb2be924)

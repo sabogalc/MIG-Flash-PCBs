@@ -3803,7 +3803,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "110n"
 			(at 127 53.3399 0)
 			(effects
 				(font

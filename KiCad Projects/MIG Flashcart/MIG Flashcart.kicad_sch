@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MIG Flashcart")
-		(date "2024-10-06")
-		(rev "1")
+		(date "2024-11-21")
+		(rev "2")
 		(company "Carlos Sabogal")
 	)
 	(lib_symbols
@@ -384,6 +384,108 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5842,6 +5944,12 @@
 		(uuid "ab5d9e2e-c507-4824-bd2e-96dff47ed5c8")
 	)
 	(junction
+		(at 36.83 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bda4f36a-78ae-453b-84c7-c0c61def8e76")
+	)
+	(junction
 		(at 243.84 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5988,20 +6096,12 @@
 		(uuid "cce09186-5ccf-4627-8c1e-b885426f5ec1")
 	)
 	(no_connect
-		(at 199.39 67.31)
-		(uuid "ceb11761-929d-4f1a-8d41-ee323659efaa")
-	)
-	(no_connect
 		(at 80.01 166.37)
 		(uuid "d3057abb-80f9-48c0-8456-4148bc4064d7")
 	)
 	(no_connect
 		(at 199.39 57.15)
 		(uuid "d563a6f8-72b8-4dce-bf9c-4cea227184f2")
-	)
-	(no_connect
-		(at 80.01 163.83)
-		(uuid "d6c5a00a-3e3d-44a7-9ebf-2c40d57ecab4")
 	)
 	(no_connect
 		(at 34.29 156.21)
@@ -6024,6 +6124,16 @@
 			(type default)
 		)
 		(uuid "008c8119-5144-44a0-a86c-6decff6d406e")
+	)
+	(wire
+		(pts
+			(xy 33.02 69.85) (xy 36.83 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "011319d6-89d8-47ac-860b-1af5ffe41ab8")
 	)
 	(wire
 		(pts
@@ -6257,16 +6367,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 41.91) (xy 38.1 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f22ad29-ff74-4b56-af6e-320a2801c6d1")
-	)
-	(wire
-		(pts
 			(xy 95.25 135.89) (xy 86.36 135.89)
 		)
 		(stroke
@@ -6477,6 +6577,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 41.91) (xy 38.1 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d08e209-f518-4270-9b17-cf3d7b087c3a")
+	)
+	(wire
+		(pts
 			(xy 198.12 146.05) (xy 201.93 146.05)
 		)
 		(stroke
@@ -6484,6 +6594,16 @@
 			(type default)
 		)
 		(uuid "3e684747-02e4-413f-9b82-34927ddcb117")
+	)
+	(wire
+		(pts
+			(xy 199.39 67.31) (xy 184.15 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ebfe9b9-b3b2-4c9f-8652-d98975931bb5")
 	)
 	(wire
 		(pts
@@ -6567,6 +6687,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 41.91) (xy 36.83 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d49e6be-45b1-4a86-81f7-b9a2a1909277")
+	)
+	(wire
+		(pts
 			(xy 196.85 115.57) (xy 199.39 115.57)
 		)
 		(stroke
@@ -6614,6 +6744,16 @@
 			(type default)
 		)
 		(uuid "51292d45-72f1-4360-99e6-b15871fd2ec1")
+	)
+	(wire
+		(pts
+			(xy 36.83 72.39) (xy 36.83 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51f98e91-b289-4ccb-b701-db7b61a90cc1")
 	)
 	(wire
 		(pts
@@ -6877,6 +7017,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 67.31) (xy 184.15 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff21883-0cde-45f4-b485-2ac3933b3c9f")
+	)
+	(wire
+		(pts
 			(xy 158.75 35.56) (xy 153.67 35.56)
 		)
 		(stroke
@@ -6937,6 +7087,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 69.85) (xy 22.86 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "865e278d-19e1-4276-9f11-30415c5b7f66")
+	)
+	(wire
+		(pts
 			(xy 242.57 69.85) (xy 245.11 69.85)
 		)
 		(stroke
@@ -6954,6 +7114,16 @@
 			(type default)
 		)
 		(uuid "8b2feeee-0401-4de2-b1ac-6a019690b55b")
+	)
+	(wire
+		(pts
+			(xy 36.83 80.01) (xy 36.83 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b3d2056-0864-4f6e-a190-5ed99d6a14b4")
 	)
 	(wire
 		(pts
@@ -7607,6 +7777,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 163.83) (xy 85.09 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1477725-49d9-4485-bd4f-df165f593b5b")
+	)
+	(wire
+		(pts
 			(xy 198.12 123.19) (xy 199.39 123.19)
 		)
 		(stroke
@@ -7842,28 +8022,6 @@
 		(uuid "13d4a8d8-ffb9-4c72-87bc-902725ad550e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 159.7563 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IOB_3b"
-		(shape input)
-		(at 35.56 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1443505d-266b-4604-bb84-993aa2fb1895")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.0434 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9148,6 +9306,28 @@
 			)
 		)
 	)
+	(global_label "IOB_3b"
+		(shape input)
+		(at 22.86 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dda44072-d8b3-47d0-b16a-b49eb401cadc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 13.3434 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "IOT_50b"
 		(shape input)
 		(at 195.58 64.77 180)
@@ -10196,6 +10376,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 36.83 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "41326db0-d3e9-4eb7-94ad-d6ca65a735e6")
+		(property "Reference" "C7"
+			(at 40.64 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DNP"
+			(at 40.64 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 37.7952 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.83 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 36.83 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e14cf06-e0e3-4520-83ae-939c1cd8748a")
+		)
+		(pin "2"
+			(uuid "645f7ce6-9617-405f-9a4d-d78b6c7fc5f4")
+		)
+		(instances
+			(project "MIG Flashcart"
+				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "FPGA_Lattice:ICE40UP5K-SG48ITR")
 		(at 209.55 49.53 0)
 		(unit 1)
@@ -10401,6 +10651,72 @@
 			(project ""
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 184.15 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4806fde5-8144-4c76-bb09-a093c3cd145d")
+		(property "Reference" "#PWR028"
+			(at 184.15 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 184.15 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42c0aa7a-df44-410e-96f1-2fc05284e0b6")
+		)
+		(instances
+			(project ""
+				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -11356,7 +11672,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.82u"
 			(at 228.6 26.6699 0)
 			(effects
 				(font
@@ -11616,7 +11932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a5005a3-bf73-484c-91db-aaf3b3c7876e")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 97.79 140.97 90)
 			(effects
 				(font
@@ -11670,7 +11986,7 @@
 		(instances
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -11737,6 +12053,73 @@
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_2")
+		(lib_id "power:GND")
+		(at 36.83 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98e8225f-0b24-437f-b99a-e8b3e1d97225")
+		(property "Reference" "#PWR027"
+			(at 36.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 36.83 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 36.83 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e8784c6-2d57-4f1b-bac9-a99848766cae")
+		)
+		(instances
+			(project "MIG Flashcart"
+				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12379,6 +12762,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 29.21 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b1c0e097-d5f7-47e5-8ca8-fa5d16b93b3f")
+		(property "Reference" "R1"
+			(at 30.48 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "50R"
+			(at 30.988 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 29.21 71.628 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 29.21 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0330316b-1e6e-4514-8a76-56194dd6368b")
+		)
+		(pin "2"
+			(uuid "ab0dbbda-4d7b-46cf-843f-0bf02ffda2ce")
+		)
+		(instances
+			(project "MIG Flashcart"
+				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 95.25 187.96 0)
@@ -12732,7 +13184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf379a19-a5c9-426f-b774-06dd8f5bf577")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 69.85 105.41 90)
 			(effects
 				(font
@@ -12786,7 +13238,7 @@
 		(instances
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -13193,6 +13645,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 85.09 163.83 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d7960584-ed96-41c7-9fa8-4fea97d880af")
+		(property "Reference" "TP1"
+			(at 90.17 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 90.17 165.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MIG Flashcart:TestPoint_Pad_D0.5mm"
+			(at 85.09 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 85.09 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b78c730-b30a-4743-97bd-ea02ce342b6c")
+		)
+		(instances
+			(project ""
+				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Crystal_GND24")
 		(at 153.67 29.21 0)
 		(unit 1)
@@ -13275,7 +13794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e082b08a-4220-4562-ba89-d95bd8d13d66")
-		(property "Reference" "R4"
+		(property "Reference" "R5"
 			(at 119.38 153.67 90)
 			(effects
 				(font
@@ -13327,7 +13846,7 @@
 		(instances
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
-					(reference "R4")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -13342,7 +13861,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e223b214-13ab-418f-8ef2-e0c743927ed1")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 119.38 158.75 90)
 			(effects
 				(font
@@ -13394,7 +13913,7 @@
 		(instances
 			(project "MIG Flashcart"
 				(path "/8903e5b0-85ac-483c-971b-37cc3b4de5de"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
