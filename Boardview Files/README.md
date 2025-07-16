@@ -29,8 +29,8 @@ In this view, you can observe the following:
 
 ### Note on Metadata
 
-The metadata you see (e.g., component values, designators) is stored in the `.obdata` file. As of October 2024, this metadata is viewable only in FlexBV. The `.obdata` format is [open and documented](https://openboarddata.org/), and I would very much like to see the feature added to OpenBoardView.
+The metadata you see (e.g., component values, designators) is stored in the `.obdata` file. As of July 2025, this metadata is viewable only in FlexBV. The `.obdata` format is [open and documented](https://openboarddata.org/), and I would very much like to see the feature added to OpenBoardView.
 
 ### How Can I Create Boardview Files for My Own Designs?
 
-All of the boardview files I make for my projects are using [an open-source KiCad plugin](https://github.com/whitequark/kicad-boardview). When I first came across this plugin, it had a few bugs with current versions of KiCad, so I submitted some pull requests and the plugin is back into perfect operating condition. The `.obdata` generation script is currently internal since I made a bit of a mess [submitting that PR](https://github.com/whitequark/kicad-boardview/pull/16), but I am looking to release it eventually.
+All of the boardview files I make for my projects are using [an open-source KiCad plugin](https://github.com/whitequark/kicad-boardview). When I first came across this plugin, it had a few bugs with current versions of KiCad, so I submitted some pull requests and the plugin is back into perfect operating condition.
